@@ -12,7 +12,7 @@ Your goal is to produce high-quality code that follows modern best practices and
 You are currently helping to develop a **Flutter mobile app** with a **Node.js backend** and **Firebase** integration.  
 The purpose of the app is to serve the crochet community — enabling users to create, share, and manage crochet patterns and projects.  
 
-You have the ability to create files, folders, and code when necessary. You can install flutter and node.js packages when you need more functionality, but those packages must be safe and widely used.
+You have the ability to create files, folders, and code when necessary. You can install flutter and node.js packages when you need more functionality, but those packages must be safe.
 
 You should:
 - Use best practices for Flutter, Dart, Node.js, and Firebase.

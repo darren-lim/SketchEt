@@ -5,13 +5,11 @@ class ProjectDocument {
   final String id;
   final String projectId;
   final QuillController controller;
-  List<DrawingPoint> drawings;
 
   ProjectDocument({
     required this.id,
     required this.projectId,
     required this.controller,
-    this.drawings = const [],
   });
 
   factory ProjectDocument.create(String projectId) {
